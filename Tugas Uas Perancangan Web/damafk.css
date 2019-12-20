@@ -1,0 +1,42 @@
+#top3cosplay{
+
+	background-color: orange;
+	padding: 30px;
+}
+
+h3{
+
+	padding-right: 150pt;
+	color: white;
+}
+
+#animeworld{
+
+	background-color: #1C5CF9;
+	padding: 30px;
+}
+
+#textcolour{
+
+	color: white;
+}
+
+h4{
+
+	padding-right: 150pt;
+	color: white;
+}
+
+.col-lg- img{
+
+	border: solid purple;
+	border-width: 15px;	 
+}
+
+.col-lg-6{
+
+	color: white;
+	background-color: purple;
+	padding-left: 50px; 
+}
+
